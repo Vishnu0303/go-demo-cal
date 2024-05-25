@@ -1,4 +1,4 @@
-# Go lang Funny Arithmetic machine 📚✖️➕➗🔢
+# Gooooolang Funny Arithmetic machine 📚✖️➕➗🔢
 This repo contains Golang code for Jenkins CI/CD.
 
 ## Run
