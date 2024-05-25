@@ -1,4 +1,4 @@
-# Go000 langggg Funny Arithmetic machine 📚✖️➕➗🔢
+# Go lang Funny Arithmetic machine 📚✖️➕➗🔢
 This repo contains Golang code for Jenkins CI/CD.
 
 ## Run
@@ -14,3 +14,4 @@ go build
 ```bash
 go test -v
 ```
+test
